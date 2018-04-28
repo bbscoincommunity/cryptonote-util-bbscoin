@@ -1,5 +1,5 @@
 {
-    "name": "cryptonote-util-vigcoin",
+    "name": "@vigcoin/cryptonote-util",
     "version": "0.1.0",
     "main": "cryptonote",
     "author": {
