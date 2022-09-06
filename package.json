@@ -1,6 +1,6 @@
 {
-    "name": "@vigcoin/cryptonote-util",
-    "version": "0.1.0",
+    "name": "@bbscoincommunity/cryptonote-util-bbscoin",
+    "version": "1.0.2",
     "main": "cryptonote",
     "author": {
         "name": "calidion",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vigcoin/node-cryptonote-util"
+        "url": "https://github.com/bbscoincommunity/cryptonote-util-bbscoin"
     },
     "dependencies": {
         "bindings": "*"
